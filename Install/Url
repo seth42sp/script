@@ -19,7 +19,8 @@ https://github.com/OpenVPN/easy-rsa/releases/download/3.0.1/EasyRSA-3.0.1.tgz
 
 https://raw.githubusercontent.com/AAAAAEXQOSyIpN2JZ0ehUQ/SSHPLUS-MANAGER-FREE/script/Install/sshd_config
 
-https://raw.githubusercontent.com/upalfadate/hdisbsi/main/script/${arch}/Plus && chmod 777 Plus && ./Plus
+https://raw.githubusercontent.com/upalfadate/hdisbsi/main/script/${arch}/Plus 
+
 Localizador de IP:
 
 ipv4.icanhazip.com)
